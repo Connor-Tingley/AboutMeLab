@@ -1,0 +1,100 @@
+body{
+	max-width: 100%;
+    overflow-x: hidden;
+	font-family: Palatino;
+	color: #e5e5e5;
+	background-color: rgb(109, 162, 219);
+}
+td{
+	
+}
+table.host{
+    /height: 70vh;
+}
+img{
+    margin: 10%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    width: 80%;
+}
+.titleBlock{
+	display: inline-block;
+    position: static;
+    font-family: Georgia;
+	color: rgb(229,229,229);
+	text-align: center;
+    font-size: 200%;
+    width: 110%;
+    margin: -10px -5% 5vh -5%;
+	background-color: rgb(5, 5, 5);
+}
+
+.person1 {
+	text-decoration: none;
+    background: rgb(5, 5, 5);
+    display: block;
+    width: 50%;
+    height: 100%;
+    margin-top: 0px;
+    padding: 5%;
+    vertical-align: top;
+	text-align: left;
+	color: green;
+}
+.person2 {
+    text-decoration: none;
+    background: rgb(5, 5, 5);
+    display: block;
+    width: 50%;
+    height: 100%;
+    margin-top: 0px;
+    padding: 5%;
+    vertical-align: top;
+    text-align: left;
+    color: purple;
+}
+.person3 {
+    text-decoration: none;
+    background: rgb(5, 5, 5);
+    display: block;
+    width: 50%;
+    height: 100%;
+    margin-top: 0px;
+    padding: 5%;
+    vertical-align: top;
+    text-align: left;
+    color: red;
+}
+.name{
+    background: rgb(25, 25, 25);
+    display: block;
+    width: 100%;
+    margin-top: 0px;
+    margin-left: 0%;
+    padding: 0%;
+    vertical-align: top;
+    font-family: Georgia;
+    text-indent: 5%;
+}
+.intrests{
+    background: rgb(125, 125, 125);
+    display: block;
+    width: 100%;
+    margin-top: 0px;
+    margin-left: 0%;
+    padding: 0%;
+    vertical-align: top;
+    font-family: Georgia;
+    text-indent: 5%;
+}
+.contact{
+    background: rgb(225, 225, 225);
+    display: block;
+    width: 100%;
+    margin-top: 0px;
+    margin-left: 0%;
+    padding: 0%;
+    vertical-align: top;
+    font-family: Georgia;
+    text-indent: 5%;
+}
